@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">05_Ejercicio_Lista_Compra</string>
+    <string name="alert_aviso">This action can not be ctrl + z</string>
+    <string name="alert_add_title">Agregar Producto</string>
+    <string name="alert_cancel_button">Cancelar</string>
+    <string name="alert_add_ok_button">Crear</string>
+    <string name="alert_edit_ok_button">Editar</string>
+    <string name="hint_nombre_producto">Nombre Producto</string>
+    <string name="hint_cantidad_producto">Cantidad Producto</string>
+    <string name="hint_precio_producto">Precio del Producto</string>
+    <string name="alert_edit_title">Editar Producto</string>
+</resources>
